@@ -11,7 +11,6 @@
 <div>
 <h1>REDES SOCIAIS</h1>
 <a href="https://instagram.com/techcamis?igshid=NGExMmI2YTkyZg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/techcamis?t=NDnln2by1szGQX8yclWWBg&s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.tiktok.com/@techcamis?_t=8d6yCC3ro0r&_r=1"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 <a href="https://youtube.com/@techcamis"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
