@@ -1,6 +1,6 @@
 ### Eu sou a Camis, e esse é meu Git Hub👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techcamis&layout=donut&cache_seconds=1800)](https://github.com/techcamis/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techcamis&cache_seconds=1800)
 <br>
 <div>
   <h1>TECNOLOGIAS<h1/>
